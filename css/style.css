@@ -1,0 +1,29 @@
+body{
+    background-image: url("breathe.gif");
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ; 
+    border: 70px solid transparent;
+    
+    
+    /*padding: auto;*/
+    
+
+
+
+}
+
+p{
+    font-family: 'MV Boli';
+    color: #fbcce7;
+    font-size: large;
+    border: 10px solid transparent;
+    /*border-image: url('sample2.png') ;
+    border-image-slice: 1 fill ;
+    border-image-outset: 40px ;*/
+    background: rgba(70,130,180,0.3) ;
+   
+    
+
+}
